@@ -29,5 +29,18 @@ public class Main {
 
 
 
+
+//        precoDeVenda = totalComImpostos * (1 + margemLucro);
+//        A parte 1 + 0.30 está fazendo o seguinte:
+//
+//        1 representa 100% do valor original (ou seja, sem lucro ainda)
+//
+//        0.30 representa 30% de lucro desejado
+//
+//        Então://
+//
+//        1 + 0.30 = 1.30 → significa 130% do valor original
+
+//        precoDeVenda = 100 * 1.30 = 130
     }
 }
